@@ -2,7 +2,7 @@
 ![sukidhar](https://user-images.githubusercontent.com/55320244/222733796-20b2e9a6-1fa0-4ba7-b18c-fe4c127eac5b.png)
 
 # 💫 About Me:
-🔮 I am currently working on Elixir/Phoenix projects<br>👀 Open to collaborate on open source projects<br>🎮 Making a massive open world game as hobby<br>📱 Mobile app developer by blood <br>🪔 I am 22 years old  
+🔮 I am currently working on Elixir/Phoenix projects<br>👀 Open to collaborate on open source projects<br>🎮 Making a massive open world game as hobby<br>📱 Mobile app developer by blood <br>🪔 I am 23 years old  
 
 
 ## 🌐 Socials:
